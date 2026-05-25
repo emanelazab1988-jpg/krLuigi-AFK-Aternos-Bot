@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ServerBot",
+    "username": "ServerBot02",
     "password": "",
     "type": "offline"
   },
@@ -37,9 +37,9 @@
       ]
     },
     "chat-log": true,
-    "auto-reconnect": true,
-    "auto-reconnect-delay": 30000,
-    "max-reconnect-delay": 180000
+    "auto-reconnect": false,
+    "auto-reconnect-delay": 120000,
+    "max-reconnect-delay": 300000
   },
   "movement": {
     "enabled": true,
